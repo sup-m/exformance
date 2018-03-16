@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+header{
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+    font-size: 1.4em;
+}
+
+main{
+    padding: 10px;
+}
+
+main h1{
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+footer{
+    padding: 10px;
+}
+
+fieldset
+{
+    padding: 1.4em;
+    border: none;
+}
+
+fieldset input, label
+{
+    display: block;
+    padding: 8px;
+    font-size: 1.1em;
+}
+
+fieldset input
+{
+    margin-bottom: 10px;
+    border: 1px silver solid;
+}
